@@ -32,7 +32,3 @@ Expert WordPress web developer with over 5+ years of experience.
 ## Contact
 
 If you want to contact me you can reach me at [Twitter](https://twitter.com/Soham1255).
-
-## License
-
-MIT
