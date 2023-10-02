@@ -1,43 +1,37 @@
-# vCard - Personal portfolio
+# Soham - Personal portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+WordPress Developer
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+## About Me
 
-## Demo
+Expert WordPress web developer with over 5+ years of experience.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+➤ My main strengths are:
+✥ Clean coding and tested with different browser and Responsive
+✥ 100% WordPress coding standard compliant.
+✥ Fast and top quality work.
 
-## Prerequisites
+➤ WordPress-specific skills:
+✥ Installation, configuration, and maintenance.
+✥ Theme development and customization.
+✥ Plugin customization.
+✥ E-commerce development (WooCommerce).
+✥ SEO, speed and performance optimization, security.
+✥ Moving sites to new hostings, domain migration.
 
-Before you begin, ensure you have met the following requirements:
-
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+➤ WordPress Speed Optimization
+✥ Google page speed insight
+✥ GTmetrix
+✥ Advanced Gutenberg
+✥ Defar Parsing JavaScript
+✥ Image Optimization, Next Generation Image Optimization
+✥ Minifying JavaScript
+✥ Minifying CSS
+✥ Minifying HTML
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [Twitter](https://twitter.com/Soham1255).
 
 ## License
 
