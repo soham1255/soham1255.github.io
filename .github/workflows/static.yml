@@ -32,6 +32,19 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v4
+      - name: Build static content (optional)
+        run: |
+          # Add your build steps here if necessary
+          # e.g., npm run build or make static files ready for deployment
+          mkdir -p output
+          cp -r ./* output/  # For example, if your static files are in the root directory
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-pages  # Name the artifact
+          path: output/       # Path to the static content directory
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages  # Reference the artifact uploaded
