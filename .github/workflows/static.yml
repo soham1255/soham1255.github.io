@@ -43,6 +43,10 @@ jobs:
         with:
           name: github-pages  # Name the artifact
           path: output/       # Path to the static content directory
+      - name: List artifacts
+        run: |
+          echo "Listing artifacts in this workflow:"
+          ls -R output
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
